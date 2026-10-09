@@ -18,12 +18,24 @@
 | # | Проект | Статус |
 |---|--------|--------|
 | 2.6 | `parser-news` | ✅ |
-| 2.7 | `parser-articles` | 🚀 |
+| 2.7 | `parser-articles` | 🟡 40% |
 | 2.8 | `parser-js` | ⏳ |
 | 2.9 | `parser-stealth` | ⏳ |
 | 2.10 | `parser-telegram` | ⏳ |
 | 2.11 | `parser-db` | ⏳ |
 | 2.12 | `parser-pro` | ⏳ |
+
+### 🚧 В работе: `parser-articles`
+
+Прогресс: **40%** (2/5 модулей)
+
+| Модуль | Статус |
+|--------|--------|
+| `core/fetcher.py` | ✅ |
+| `core/config_loader.py` | ✅ |
+| `core/extractor.py` | ⏳ |
+| `core/exporter.py` | ⏳ |
+| `core/crawler.py` | ⏳ |
 
 ### AI / LLM
 
