@@ -59,6 +59,34 @@
 |---|--------|--------|
 | 13 | `agent-zero-clone` | ⏳ |
 
+## 📚 Темы для изучения (чек-лист)
+
+### LLM-инференс
+- [ ] KV-cache
+- [ ] Flash-attention
+- [ ] RoPE, ALiBi, YaRN (позиционное кодирование)
+- [ ] Квантизация
+
+### RAG
+- [ ] PQ (Product Quantization)
+- [ ] bi-encoder vs cross-encoder
+- [ ] Гибридный поиск (Dense + Sparse)
+- [ ] Reranking
+
+### Агенты
+- [ ] Function calling
+- [ ] ReAct
+- [ ] AI guardrails
+- [ ] LangGraph
+- [ ] Мультиагентные системы
+- [ ] Мультимодальные модели (Vision)
+
+### Продакшен
+- [ ] LangSmith (трекинг)
+- [ ] Grafana для LLM
+- [ ] Prompt injection защита
+- [ ] LoRA / QLoRA
+- [ ] LLM-as-judge
 
 ## 🎯 Что умею
 
